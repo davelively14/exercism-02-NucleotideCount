@@ -1,4 +1,4 @@
-# Nucleotide Count
+# Nucleotide Count - DLively
 
 Given a DNA string, compute how many times each nucleotide occurs in the string.
 
@@ -69,4 +69,3 @@ The Calculating DNA Nucleotides_problem at Rosalind [http://rosalind.info/proble
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
-
